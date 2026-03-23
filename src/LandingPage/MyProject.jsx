@@ -49,6 +49,8 @@ class ProjectsConfig {
     new Project({ id: 3, category: "Website", title: "Project 3", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", tags: ["React", "Tailwind"], liveUrl: "#", imageUrl: null }),
     new Project({ id: 4, category: "Website", title: "Project 4", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", tags: ["React", "Tailwind"], liveUrl: "#", imageUrl: null }),
     new Project({ id: 5, category: "Website", title: "Project 5", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", tags: ["React", "Tailwind"], liveUrl: "#", imageUrl: null }),
+    new Project({ id: 6, category: "Website", title: "Project 6", description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", tags: ["React", "Tailwind"], liveUrl: "#", imageUrl: null }),
+
   ];
 
   static TECH_STACK = [
@@ -58,6 +60,8 @@ class ProjectsConfig {
     new TechItem("PHP",        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"),
     new TechItem("React",      "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"),
     new TechItem("Tailwind",   "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"),
+    new TechItem("VS Code",    "/assets/vscode.png"),
+    new TechItem("Github",     "/assets/github.png"),
   ];
 }
 
