@@ -39,6 +39,7 @@ class NavbarConfig {
     new NavLink("Home",       "#Home"),
     new NavLink("About me",   "#About"),
     new NavLink("My Project", "#MyProject"),
+    new NavLink("My Journey", "#MyJourney"),
     new NavLink("Contact me", "#Contact"),
   ];
 
