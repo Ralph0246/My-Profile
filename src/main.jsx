@@ -5,6 +5,7 @@ import Navbar from './Header/Navbar.jsx'
 import Homepage from './LandingPage/Homepage.jsx'
 import MyProject from './LandingPage/MyProject.jsx'
 import MyJourney from './LandingPage/MyJourney.jsx'
+import GraphicDesigning from './LandingPage/GraphicDesining.jsx'
 
 
 createRoot(document.getElementById('root')).render(
@@ -12,6 +13,7 @@ createRoot(document.getElementById('root')).render(
     <Navbar />
     <Homepage />
     <MyProject />
+    <GraphicDesigning />
     <MyJourney />
   </StrictMode>,
 )
