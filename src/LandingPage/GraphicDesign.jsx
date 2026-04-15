@@ -273,7 +273,7 @@ export default class GraphicDesigning extends Component {
 
     return (
       <section
-        id="graphic"
+        id="GraphicDesign"
         className="bg-[#2b2b2b] font-['Poppins',sans-serif] px-16 py-20 max-md:px-4 flex flex-col items-center gap-14"
       >
         <style>{`

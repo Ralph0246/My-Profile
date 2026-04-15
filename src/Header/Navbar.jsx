@@ -39,9 +39,9 @@ class NavbarConfig {
     new NavLink("Home",       "#Home"),
     new NavLink("About me",   "#About"),
     new NavLink("My Project", "#MyProject"),
-    new NavLink("My Graphic Design", "#GraphicDesigning"),
+    new NavLink("My Graphic Design", "#GraphicDesign"),
     new NavLink("My Journey", "#MyJourney"),
-    new NavLink("Contact me", "#Contact"),
+    new NavLink("Contact me", "#ContactUs"),
   ];
 
   static SOCIAL_LINKS = [
